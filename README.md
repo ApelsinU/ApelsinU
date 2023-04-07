@@ -13,5 +13,5 @@ Work Expirience 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
 
-
+**FRONTEND**
 
