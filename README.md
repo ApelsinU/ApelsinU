@@ -48,6 +48,21 @@ Have some expirience in full-stack and backend on Node.js
 ![Stylus](https://user-images.githubusercontent.com/65256109/230636920-b75e0e18-0f89-46f0-8252-f0815a89f44f.png)
 ![Css-Modules](https://user-images.githubusercontent.com/65256109/230636911-6b9393c7-f9b8-4d78-b8d8-93720d8be5b1.png)
 
+**Other Skills**
+
+![Figma](https://user-images.githubusercontent.com/65256109/230637174-d325d814-2dff-4850-ac16-18abd49acbc3.png)
+![Adobe Photoshop](https://user-images.githubusercontent.com/65256109/230637167-49d67eba-aaf7-4b43-8fc2-e6d656c15380.png)
+![Git](https://user-images.githubusercontent.com/65256109/230637179-8cbb309c-d3b9-4b0f-b1ac-f13c2f7e182f.png)
+![Mercurial](https://user-images.githubusercontent.com/65256109/230637183-2d2457af-5e51-4f13-929f-2efe8fbe2a6b.png)
+![English](https://user-images.githubusercontent.com/65256109/230637170-d2f85fe6-79ec-4eaa-9465-c08847624c62.png)
+
+**Learning**
+
+file:///home/vadim/Desktop/gh/CI-CD.png
+file:///home/vadim/Desktop/gh/Storybook.png
+
+
+
 
 
 
