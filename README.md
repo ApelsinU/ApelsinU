@@ -6,10 +6,10 @@ creating  beautiful and user-friendly web-interfaces.
 I also interested in web-app perfomance and optimizations.
 Have some expirience in full-stack and backend on Node.js
 
-Degree 📖
+**DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies (2 courses)
 
-Work Expirience 🏢
+**WORK EXPERIANCE** 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
 
