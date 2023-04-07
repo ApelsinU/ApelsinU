@@ -9,12 +9,12 @@ Have some expirience in full-stack and backend on Node.js
 
 **DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies (2 courses)
-- 
+
 
 **WORK EXPERIANCE** 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
-- 
+
 
 **FRONTEND**
 
