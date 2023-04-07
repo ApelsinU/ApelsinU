@@ -57,10 +57,12 @@ Have some expirience in full-stack and backend on Node.js
 ![English](https://user-images.githubusercontent.com/65256109/230637170-d2f85fe6-79ec-4eaa-9465-c08847624c62.png)
 
 **Learning**
+
 ![CI-CD](https://user-images.githubusercontent.com/65256109/230637409-58966e1e-b221-4cba-b3a0-8ee098b766c0.png)
 ![Storybook](https://user-images.githubusercontent.com/65256109/230637411-eace3e2a-93ad-4da6-8e17-6c3f5c51e813.png)
 
 **Code**
+
 ![SOLID, DRY, KISS](https://user-images.githubusercontent.com/65256109/230637497-0fc9cfd3-0646-4700-874a-4b0169829991.png)
 ![Agile, Scrum, Kanban](https://user-images.githubusercontent.com/65256109/230637485-f0f759ca-ceb0-4a26-899e-2307084dc239.png)
 ![ESLint](https://user-images.githubusercontent.com/65256109/230637489-ca06ab92-1216-44de-9f8b-37ec9f1c4f56.png)
