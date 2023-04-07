@@ -4,7 +4,7 @@ My name's Vadim
 I am Frontend Developer and i am passionate about web-development and
 creating  beautiful and user-friendly web-interfaces.
 I also interested in web-app perfomance and optimizations.
-Have some expirience in full-stack and backend on Node.js
+Have some experience in full-stack and backend on Node.js
 
 
 **DEGREE** 📖
