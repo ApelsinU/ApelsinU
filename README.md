@@ -18,7 +18,7 @@ Have some expirience in full-stack and backend on Node.js
 
 **FRONTEND**
 
-![React](https://user-images.githubusercontent.com/65256109/230636349-231600e6-3a7e-4e19-b9f5-b1204b152eac.png)
+![React](https://user-images.githubusercontent.com/65256109/230637695-46b5caf6-bd06-47b3-835b-428d4f531493.png)
 ![Redux Toolkit](https://user-images.githubusercontent.com/65256109/230636351-6c792db9-4a46-4d83-a9e8-d104c51fadf6.png)
 ![JavaScript](https://user-images.githubusercontent.com/65256109/230636347-8ab836e8-cb0d-4aed-b960-8d2811cd7f0a.png)
 ![TypeScript](https://user-images.githubusercontent.com/65256109/230636355-7fbb7584-3666-461a-8a63-516417f33152.png)
