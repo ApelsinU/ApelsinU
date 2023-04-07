@@ -32,3 +32,22 @@ Have some expirience in full-stack and backend on Node.js
 
 
 **BACKEND**
+
+![NodeJs](https://user-images.githubusercontent.com/65256109/230636801-68d5812e-3411-4fc4-a553-03fca2ff5a95.png)
+![MongoDB](https://user-images.githubusercontent.com/65256109/230636798-6939decd-6c83-4407-ba65-e156f466bc1d.png)
+![Rest API](https://user-images.githubusercontent.com/65256109/230636803-48456f19-4bf0-43dd-b40c-eaf84e83b711.png)
+
+**Layout &  Styles**
+
+![HTML5](https://user-images.githubusercontent.com/65256109/230636914-bdac0cf0-34ae-41d2-93e3-c5d979f43630.png)
+![Pug](https://user-images.githubusercontent.com/65256109/230636916-33bfbb73-60c3-4320-a7bb-c2d75a451803.png)
+![Bootstrap](https://user-images.githubusercontent.com/65256109/230636907-30c46c73-8ec0-40db-bdac-000fd211966c.png)
+![Styled Components](https://user-images.githubusercontent.com/65256109/230636918-c0b1dd1b-66d6-4369-ae7a-7eba51b36517.png)
+![CSS3](https://user-images.githubusercontent.com/65256109/230636909-b71abf64-edc3-457c-8c2e-03e5ef417151.png)
+![SASS](https://user-images.githubusercontent.com/65256109/230636917-d4485591-d34a-4f51-aef2-6c126e95350f.png)
+![Stylus](https://user-images.githubusercontent.com/65256109/230636920-b75e0e18-0f89-46f0-8252-f0815a89f44f.png)
+![Css-Modules](https://user-images.githubusercontent.com/65256109/230636911-6b9393c7-f9b8-4d78-b8d8-93720d8be5b1.png)
+
+
+
+
