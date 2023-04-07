@@ -6,12 +6,15 @@ creating  beautiful and user-friendly web-interfaces.
 I also interested in web-app perfomance and optimizations.
 Have some expirience in full-stack and backend on Node.js
 
+
 **DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies (2 courses)
+- 
 
 **WORK EXPERIANCE** 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
+- 
 
 **FRONTEND**
 
@@ -26,3 +29,6 @@ Have some expirience in full-stack and backend on Node.js
 ![Gulp](https://user-images.githubusercontent.com/65256109/230636346-b33f057e-3ae2-4a60-bd9e-ff6fa6e3768f.png)
 ![Webpack](https://user-images.githubusercontent.com/65256109/230636360-a054a2e9-b496-44f7-a7d9-6c970f002361.png)
 ![Zustand](https://user-images.githubusercontent.com/65256109/230636362-9209b8cf-4bf5-4621-b044-7472f74c760f.png)
+
+
+**BACKEND**
