@@ -14,4 +14,4 @@ Work Expirience 🏢
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
 
 
-![FRONTEND](https://user-images.githubusercontent.com/65256109/230635168-ec413917-d316-4690-b246-af58a2b8f07c.png)
+
