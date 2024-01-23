@@ -26,7 +26,6 @@
 ![Webpack](https://user-images.githubusercontent.com/65256109/230636360-a054a2e9-b496-44f7-a7d9-6c970f002361.png)
 ![Zustand](https://user-images.githubusercontent.com/65256109/230636362-9209b8cf-4bf5-4621-b044-7472f74c760f.png)
 
-
 **BACKEND**
 
 ![NodeJs](https://user-images.githubusercontent.com/65256109/230636801-68d5812e-3411-4fc4-a553-03fca2ff5a95.png)
@@ -52,18 +51,17 @@
 ![Mercurial](https://user-images.githubusercontent.com/65256109/230637183-2d2457af-5e51-4f13-929f-2efe8fbe2a6b.png)
 ![English](https://user-images.githubusercontent.com/65256109/230637170-d2f85fe6-79ec-4eaa-9465-c08847624c62.png)
 
-**Code**
+**Development process**
 
 ![SOLID, DRY, KISS](https://user-images.githubusercontent.com/65256109/230637497-0fc9cfd3-0646-4700-874a-4b0169829991.png)
 ![Agile, Scrum, Kanban](https://user-images.githubusercontent.com/65256109/230637485-f0f759ca-ceb0-4a26-899e-2307084dc239.png)
+![CI-CD](https://user-images.githubusercontent.com/65256109/230637409-58966e1e-b221-4cba-b3a0-8ee098b766c0.png)
+![Storybook](https://user-images.githubusercontent.com/65256109/230637411-eace3e2a-93ad-4da6-8e17-6c3f5c51e813.png)
 ![ESLint](https://user-images.githubusercontent.com/65256109/230637489-ca06ab92-1216-44de-9f8b-37ec9f1c4f56.png)
 ![Prettier](https://user-images.githubusercontent.com/65256109/230637493-b16147a5-c389-4618-8be5-a02de51acfbf.png)
 ![Stylelint](https://user-images.githubusercontent.com/65256109/230637498-a3ec2b5b-13aa-41a5-aea7-c0481daed2c8.png)
 
-**Learning**
 
-![CI-CD](https://user-images.githubusercontent.com/65256109/230637409-58966e1e-b221-4cba-b3a0-8ee098b766c0.png)
-![Storybook](https://user-images.githubusercontent.com/65256109/230637411-eace3e2a-93ad-4da6-8e17-6c3f5c51e813.png)
 
 
 
