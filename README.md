@@ -1,7 +1,7 @@
 **ABOUT**
-Vadim
-23 y.o
-React Frontend Developer
+- Vadim
+- 23 y.o
+- React Frontend Developer
 
 **DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies
