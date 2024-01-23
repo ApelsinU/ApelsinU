@@ -1,12 +1,14 @@
 **ABOUT**
 - Vadim
 - 23 y.o
+- English B1/B2
 - React Frontend Developer
+- 2.5+ years commercial experience
 
 **DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies
 
-**WORK EXPERIANCE** 🏢
+**WORK EXPERIENCE** 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
 
