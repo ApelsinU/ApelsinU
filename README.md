@@ -13,21 +13,23 @@
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
 
 **FRONTEND (Main)**
-React, Redux-Toolkit, Js, Ts, Webpack
+- React, Redux-Toolkit, Js, Ts, Webpack
 
-NextJs, useSwr, Axios, Docker, Gulp, Zustand
+- NextJs, useSwr, Axios, Docker, Gulp, Zustand
 
 **BACKEND**
-NodeJs, Express, MongoDB
+- NodeJs, Express, MongoDB
 
 **Styles**
-Styled Components, SCSS, Stylus, Css-Modules
-
-**Other Skills**
-Figma, Git
+- Styled Components, SCSS, Stylus, Css-Modules
 
 **Development process**
-Storybook, ESLint, Stylelint
+- Storybook, ESLint, Stylelint
+
+**Other Skills**
+- Figma, Git
+
+
 
 
 
