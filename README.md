@@ -1,9 +1,9 @@
 **ABOUT**
 - Vadim
-- 23 y.o
+- 26 y.o
 - English B1/B2
-- React Frontend Developer
-- 2.5+ years commercial experience
+- React Frontend Developer / Pixi Game Developer
+- 5+ years commercial experience
 
 **DEGREE** 📖
 - BSUIR, Faculty of Computer Systems and Networks, Software for Information Technologies
@@ -11,20 +11,14 @@
 **WORK EXPERIENCE** 🏢
 - (May 2021 - Oct 2021) Freelance
 - (Nov 2021 - present) Sportdata, Frontend-Developer 
+- (Nov 2021 - Jan 2025) Sportdata, Frontend-Developer 
+- (Jan 2025 - now) Broit, Pixi Game Developer
 
-**FRONTEND (Main)**
-- React, Redux-Toolkit, Js, Ts, Webpack
-
-- NextJs, useSwr, Axios, Docker, Gulp, Zustand
+**FRONTEND**
+- React, Typescript, Pixi.js
 
 **BACKEND**
 - NodeJs, Express, MongoDB
-
-**Styles**
-- Styled Components, SCSS, Stylus, Css-Modules
-
-**Development process**
-- Storybook, ESLint, Stylelint
 
 **Other Skills**
 - Figma, Git
